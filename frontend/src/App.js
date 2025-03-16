@@ -7,7 +7,7 @@ import Dashboard from './screens/Dashboard';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/feedbacksystem">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/feedback" element={<Feedback />} />
