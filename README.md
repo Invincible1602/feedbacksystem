@@ -29,4 +29,13 @@ This project provides a full-stack solution for analyzing public feedback using 
    ```bash
    git clone https://github.com/Invincible1602/Public-Feedback-System.git
    cd Public-Feedback-System/backend
+   ```
+
+   Screenshots:
+<img width="872" alt="Screenshot 2025-03-16 at 6 51 09 PM" src="https://github.com/user-attachments/assets/a7b6f7d2-3e04-498f-820b-b61e86af3415" />
+<img width="872" alt="Screenshot 2025-03-16 at 6 51 19 PM" src="https://github.com/user-attachments/assets/aa96561d-d446-424a-8c30-58fe7b99775b" />
+<img width="872" alt="Screenshot 2025-03-16 at 6 53 09 PM" src="https://github.com/user-attachments/assets/b3a92310-6499-42c2-a96e-a4296c3aeb59" />
+<img width="872" alt="Screenshot 2025-03-16 at 6 53 20 PM" src="https://github.com/user-attachments/assets/b68d7523-badf-40e7-9e8e-493843dbbb8b" />
+   
+
 
