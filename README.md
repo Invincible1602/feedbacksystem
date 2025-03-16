@@ -11,8 +11,8 @@ This project provides a full-stack solution for analyzing public feedback using 
 - **API Endpoints:**
   - `/classify/` – Accepts feedback and company name, performs analysis, and updates analytics.
   - `/analytics/` – Retrieves analytics data. Optionally filters data by company.
-  - `/reset/` – Resets the analytics data for a specified company.
-  - `/` – Health check endpoint confirming that the API is running.
+  - `/reset/` – (For testing purposes only) Resets the analytics data for a specified company. Note: In the final product, this endpoint will be removed or secured since resetting will delete stored data.
+- `/` – Health check endpoint confirming that the API is running.
 
 ## Prerequisites
 
@@ -22,13 +22,10 @@ This project provides a full-stack solution for analyzing public feedback using 
 
 ## Installation
 
-### Backend
-
 1. **Clone the Repository:**
 
    ```bash
    git clone https://github.com/Invincible1602/Public-Feedback-System.git
-   cd Public-Feedback-System/backend
    ```
 
    Screenshots:
